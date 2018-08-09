@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.google.android.gms.maps.model.LatLng.LatLng(v,v1)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
